@@ -200,4 +200,4 @@ The dashboard visualizes segment distribution and customer-level RFM scores to s
 *Part of my Data Analyst Portfolio — [View other projects on GitHub](yuvan-1411)
 
 ## 📬 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)
+- 💼 [LinkedIn](www.linkedin.com/in/yuvan-shankar-j)
